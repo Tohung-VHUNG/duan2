@@ -1,0 +1,25 @@
+p {
+  color: aliceblue;
+  font-size: medium;
+}
+
+#nene {
+  color: black;
+  font-size: x-large;
+}
+a:link {
+  color: darkcyan;
+}
+
+p:active {
+  color: red;
+  font-size: x-small;
+}
+
+a:visited {
+  color: violet;
+}
+
+.demo p {
+  color: aqua;
+}

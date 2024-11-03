@@ -1,0 +1,13 @@
+body {
+  background-image: url(../img/paulina-herpel-f1RanbWWY1c-unsplash.jpg);
+  opacity: 0.5;
+}
+
+li {
+  color: rgb(182, 156, 51);
+  font-style: inherit;
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+  text-align: start;
+  font-size: 10px;
+}
